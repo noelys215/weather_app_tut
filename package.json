@@ -18,5 +18,8 @@
   "homepage": "https://github.com/noelys215/weather_app_tut#readme",
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "netlify-cli": "^4.0.5"
   }
 }
